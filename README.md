@@ -2,7 +2,7 @@
 
 **Project carried out as part of my data analyst studies**
 
-# **Situation**
+## **Situation**
 
 In this project, we integrated a food company, it specializes in chicken and its products. It now wishes to develop abroad, but its field of possibilities is wide, no country is chosen for the moment and they are all possible.
 
