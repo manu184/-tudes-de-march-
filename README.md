@@ -23,8 +23,11 @@ Finally, I selected some countries and justify this choice.
 In this project we will use different data from the Food and Agriculture Organization of the United Nations (FAO),
 
 [FAOSTAT_data_9-28-2021_PIB.csv] -- GDP per country and per year
+
 [FAOSTAT_data_9-28-2021_pop.csv] -- Population by country and year
+
 [FAOSTAT_data_9-28-2021_Viande.csv] -- Various information on the amount of food by country and year, specifically for meat.
+
 [FAOSTAT_data_9-28-2021_Nourriture_Total.csv] -- Various information about the amount of food by country and by year, for all food in a country.
 
 
