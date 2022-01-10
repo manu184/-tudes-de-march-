@@ -9,7 +9,7 @@ In this project, we integrated a food company, it specializes in chicken and its
 Our mission is to produce a study that targets certain countries, in order to deepen the market study later.
 
 
-**Process**
+## **Process**
 
 First, I started by cleaning and checking the data in the file ['Data_Cleaning.ipnyb'] which returns a file ready for analysis.
 
@@ -18,7 +18,7 @@ Then, I performed a global analysis of the data, in [Data_Analysis.ipynb'], I fi
 Finally, I selected some countries and justify this choice.
 
 
-**Data used and sources**
+## **Data used and sources**
 
 In this project we will use different data from the Food and Agriculture Organization of the United Nations (FAO),
 
@@ -31,12 +31,12 @@ In this project we will use different data from the Food and Agriculture Organiz
 [FAOSTAT_data_9-28-2021_Nourriture_Total.csv] -- Various information about the amount of food by country and by year, for all food in a country.
 
 
-Project done in python using Jupyter, and the following libraries:
+## Project done in python using Jupyter, and the following libraries:
 
-*matplotlib
-*pandas
-*datetime
-*seaborn
-*sklearn
-*scipy
-*numpy
+*matplotlib*
+*pandas*
+*datetime*
+*seaborn*
+*sklearn*
+*scipy*
+*numpy*
