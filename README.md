@@ -1,4 +1,4 @@
-## Projet 5 : Produisez une Etude de marche
+# Projet 5 : Produisez une Etude de marche
 
 **Project carried out as part of my data analyst studies**
 
